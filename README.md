@@ -1,8 +1,11 @@
-# React + Vite
+<h1>Connecto</h1>
+This repository contains a simple, yet elegant social media app user interface, built using Material UI. The UI includes basic features typically found in social media applications such as a home feed, user profiles, and post creation, designed with a modern, responsive layout. <br/><br/><br/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features<br/>
+Material UI Components: Utilizes Material UI for sleek, responsive, and accessible components.<br/>
+Home Feed: Displays a feed of posts with like and comment buttons.<br/>
+Post Creation: A simple interface to create and add posts (text, images, etc.).<br/>
+Responsive Design: Optimized for both desktop and mobile views.<br/>
+Tech Stack<br/>
+React: JavaScript library for building the user interface.<br/>
+Material UI: React component library for material design components.<br/>
