@@ -1,4 +1,5 @@
 <h1>Connecto</h1>
+<a href='https://connecto-koder.netlify.app/'>visit connecto</a><br/>
 This repository contains a simple, yet elegant social media app user interface, built using Material UI. The UI includes basic features typically found in social media applications such as a home feed, user profiles, and post creation, designed with a modern, responsive layout. <br/><br/><br/>
 
 Features<br/>
